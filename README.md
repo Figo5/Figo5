@@ -1,5 +1,3 @@
-## Hi, I'm Gio 👋
-
 Solutions Engineer. I build local-first developer tools, AI-assisted
 workflows, and simulation projects — most of them end-to-end, from the
 data layer to the UI.
